@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 100%;
+}
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  line-height: 1;
+  margin-top: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family: "Poppins", sans-serif;
+}
+p {
+  line-height: 1;
+
+}
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+  
+}
+.bottom-container {
+  background-color: #e4f9f5;
+ 
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  
+
+  
+
+}
+
+
+.web {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+
+} 
+.contact-message {
+  width: 40%;
+  margin: 40% auto 60px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {bvs
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.makeup-image{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
